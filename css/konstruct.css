@@ -291,3 +291,123 @@ input[value]{
     font-family:'Open Sans', serif;
     letter-spacing: 0.85px;
 }
+.footer_1 {
+    width: 1440px;
+    height: 240px;
+    background-color: #141A20; 
+    display: flex;
+    align-items: center;   
+}
+.footer_2{
+    width: 915px;
+    height: 158px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.company {
+    width: 250px;
+    height: 148px;
+}
+.company h4{
+    color: #FFFFFF;
+    font-family:'Open Sans', serif;
+    font-size: 11px;
+    line-height: 12.89px;
+    font-weight: 200;
+    letter-spacing: 0.85 px;
+}
+.company img{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.company p{
+    font-size: 11px;
+    font-family:'Open Sans', serif;
+    line-height: 19px;
+    color: #FFF;
+}
+.links {
+    width: 260px;
+    height: 150px;       
+}
+.links h4{
+    color: #FFFFFF;
+    font-family:'Open Sans', serif;
+    font-size: 11px;
+    line-height: 12.89px;
+    font-weight: 200;
+    letter-spacing: 0.85 px;
+}
+.ul_links{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.ul_links ul:nth-child(2){
+    padding-left: 30px;
+    padding-right: 38px;
+}
+.ul_links ul:nth-child(1){
+    padding-right: 20px;
+}  
+.link {
+    list-style: none;
+}
+.link li a{
+    font-family:'Open Sans', serif;
+    text-decoration: none;
+    font-size: 11px;
+    line-height: 25px;
+    color: #FFFFFF;
+    letter-spacing: 0.85 px;
+}
+.contact_us {
+    width: 140px;
+    height: 158px;
+}
+.contact_us h4{
+    color: #FFFFFF;
+    font-family:'Open Sans', serif;
+    font-size: 11px;
+    line-height: 12.89px;
+    font-weight: 200;
+    letter-spacing: 0.85 px;
+}
+.contact_us p{
+    font-family:'Open Sans', serif;
+    font-size: 11px;
+    line-height: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0.85 px;
+    padding-top: 15px;
+    max-width: 110px;
+}
+
+.socials{
+    width: 100px;
+    height: 100px;
+    margin-top:30px;
+}
+.fa {
+    color: #FFF;
+    letter-spacing: 18px; 
+    cursor: pointer;   
+}
+.footer_end{
+    width: 1440px;
+    height: 60px;
+    background-color: #171819;   
+    text-align: center;
+    padding: 22px 0;
+}
+.footer_end p{
+    font-size: 11px;
+    font-family:'Open Sans', serif;
+    color: #FFFFFF;
+    letter-spacing: 0.85px;
+    line-height: 12.89px;
+}
+
+
+
